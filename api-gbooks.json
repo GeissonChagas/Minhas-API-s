@@ -14,7 +14,7 @@
         "autor": "Benjamin Graham",
         "imagem": "https://m.media-amazon.com/images/I/41BKXHTRddL.jpg",
         "alt": "Capa do livro: O investidor inteligente",
-        "quantidade": 50,
+        "quantidade": 0,
         "categoria": "financas"
 },    {
         "titulo": "Segredos da mente milionária",
@@ -38,7 +38,7 @@
         "autor": "Joel Moraes",
         "imagem": "https://m.media-amazon.com/images/I/411keSdb60L.jpg",
         "alt": "Capa do livro: Esteja, viva, permaneça 100% presente",
-        "quantidade": 50,
+        "quantidade": 0,
         "categoria": "autoajuda"
 },    {
         "titulo": "Como fazer amigos e influenciar pessoas",
