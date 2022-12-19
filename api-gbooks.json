@@ -6,7 +6,7 @@
         "imagem": "https://m.media-amazon.com/images/I/412y2rFbc7L.jpg",
         "alt": "Capa do livro: Do mil ao milhão",
         "quantidade": 50,
-        "categoria": "Finanças"
+        "categoria": "financas"
 },
     {
         "titulo": "O investidor inteligente",
@@ -15,7 +15,7 @@
         "imagem": "https://m.media-amazon.com/images/I/41BKXHTRddL.jpg",
         "alt": "Capa do livro: O investidor inteligente",
         "quantidade": 50,
-        "categoria": "Finanças"
+        "categoria": "financas"
 },    {
         "titulo": "Segredos da mente milionária",
         "preco": 24.9,
@@ -23,7 +23,7 @@
         "imagem": "https://m.media-amazon.com/images/I/51CHo2i0r+L._SY346_.jpg",
         "alt": "Capa do livro: Segredos da mente milionária",
         "quantidade": 50,
-        "categoria": "Finanças"
+        "categoria": "financas"
 },    {
         "titulo": "O poder do hábito",
         "preco": 29.9,
@@ -31,7 +31,7 @@
         "imagem": "https://m.media-amazon.com/images/I/51vJiEaw12L._SY346_.jpg",
         "alt": "Capa do livro: O Poder do hábito",
         "quantidade": 50,
-        "categoria": "Autoajuda"
+        "categoria": "autoajuda"
 },    {
         "titulo": "Esteja, viva, permaneça 100% presente",
         "preco": 24.9,
@@ -39,7 +39,7 @@
         "imagem": "https://m.media-amazon.com/images/I/411keSdb60L.jpg",
         "alt": "Capa do livro: Esteja, viva, permaneça 100% presente",
         "quantidade": 50,
-        "categoria": "Autoajuda"
+        "categoria": "autoajuda"
 },    {
         "titulo": "Como fazer amigos e influenciar pessoas",
         "preco": 34.90,
@@ -47,7 +47,7 @@
         "imagem": "https://m.media-amazon.com/images/I/4145oBxyofL._SY346_.jpg",
         "alt": "Capa do livro: Como fazer amigos e influenciar pessoas",
         "quantidade": 50,
-        "categoria": "Autoajuda"
+        "categoria": "autoajuda"
 },    {
         "titulo": "Fogo & Sangue – Volume 1",
         "preco": 54.4,
@@ -55,7 +55,7 @@
         "imagem": "https://m.media-amazon.com/images/I/51A19icLe6L._SY344_BO1,204,203,200_QL70_ML2_.jpg",
         "alt": "Capa do livro: Fogo & Sangue – Volume 1",
         "quantidade": 50,
-        "categoria": "Fantasia"
+        "categoria": "fantasia"
 },    {
         "titulo": "Sherlock Holmes - Um estudo em vermelho",
         "preco": 12.9,
@@ -63,7 +63,7 @@
         "imagem": "https://m.media-amazon.com/images/I/41XDTiGcN9L._SY344_BO1,204,203,200_QL70_ML2_.jpg",
         "alt": "Capa do livro: Do mil ao milhão",
         "quantidade": 50,
-        "categoria": "Fantasia"
+        "categoria": "fantasia"
 },    {
         "titulo": "A última livraria de Londres: Um romance sobre a Segunda Guerra Mundial",
         "preco": 29.9,
@@ -71,7 +71,7 @@
         "imagem": "https://m.media-amazon.com/images/I/51rNMtS7i+L._SY344_BO1,204,203,200_.jpg",
         "alt": "Capa do livro: A última livraria de Londres",
         "quantidade": 50,
-        "categoria": "Romance"
+        "categoria": "romance"
 },    {
         "titulo": "Amor em Manhattan: Para Nova York, com amor Livro 1",
         "preco": 29.9,
@@ -79,7 +79,7 @@
         "imagem": "https://m.media-amazon.com/images/I/41P54ESGgrL._SY344_BO1,204,203,200_QL70_ML2_.jpg",
         "alt": "Capa do livro: Amor em Manhattan, livro 1",
         "quantidade": 50,
-        "categoria": "Romance"
+        "categoria": "romance"
 },    {
         "titulo": "Mindset: A nova psicologia do sucesso",
         "preco": 29.9,
@@ -87,15 +87,15 @@
         "imagem": "https://m.media-amazon.com/images/I/41suUFbw-eL._SX346_BO1,204,203,200_.jpg",
         "alt": "Capa do livro: Mindset",
         "quantidade": 50,
-        "categoria": "Neurociência"
+        "categoria": "neurociencia"
 },    {
         "titulo": "Neurociência para líderes: Como liderar pessoas e empresas",
         "preco": 29.9,
         "autor": " Nikolaos Dimitriadis ",
         "imagem": "https://m.media-amazon.com/images/I/41WWzBa+3zL._SY344_BO1,204,203,200_.jpg",
-        "alt": "Capa do livro: Neurociência para líderes",
+        "alt": "Capa do livro: neurociencia para líderes",
         "quantidade": 50,
-        "categoria": "Neurociência"
+        "categoria": "neurociencia"
 }
 
 
