@@ -61,7 +61,7 @@
         "title": "Macbook Air M2",
         "description": "Notebook da Apple com design fino e leve",
         "price": 6000.00,
-        "image": "Macbook Air M2"
+        "image": "https://http2.mlstatic.com/D_NQ_NP_826685-MLB51390002065_092022-O.webp"
       },
       {
         "id": 9,
@@ -85,7 +85,7 @@
         "title": "Notebook Dell Inspiron",
         "description": "Notebook Dell Inspiron com processador Intel Core i5 e tela de 15,6 polegadas",
         "price": 3500.00,
-        "image": "hhttps://m.media-amazon.com/images/I/61fbk3IFERL._AC_SX679_.jpg"
+        "image": "https://a-static.mlcdn.com.br/800x560/notebook-dell-inspiron-i15-i1100-u10p-15-6-full-hd-intel-pentium-gold-4gb-128gb-ssd-linux-preto/dell/i15i1100u10pmp/9f02e0b7bd830803c7d55a102ef762a3.jpeg"
       },
       {
         "id": 12,
@@ -101,7 +101,7 @@
         "title": "Computador All-in-One",
         "description": "Computador tudo-em-um com processador Intel Core i7 e tela de 27 polegadas",
         "price": 3000.00,
-        "image": "https://m.media-amazon.com/images/I/61VBgSQljtL._AC_SX679_.jpg"
+        "image": "https://a-static.mlcdn.com.br/800x560/all-in-one-computador-intel-i3-8gb-240gb-ssd-19-hd-wifi-nf-mtc/moctecnologia/15934185853/928903f316fab3c3229f149a167296b5.jpeg"
       },
       {
         "id": 14,
@@ -109,7 +109,7 @@
         "title": "MacBook Pro",
         "description": "Notebook Apple MacBook Pro com processador Intel Core i9 e tela de 16 polegadas",
         "price": 10000.00,
-        "image": "hhttps://m.media-amazon.com/images/I/41lmLVeQYAL.__AC_SY445_SX342_QL70_ML2_.jpg"
+        "image": "https://m.media-amazon.com/images/I/41lmLVeQYAL.__AC_SY445_SX342_QL70_ML2_.jpg"
       },
       {
         "id": 15,
@@ -119,6 +119,54 @@
         "price": 5500.00,
         "image": "https://http2.mlstatic.com/D_NQ_NP_899490-MLA49770342213_042022-O.webp"
       }
+      {
+        "id": 16,
+        "category": "Smartphones",
+        "title": "Motorola Moto E22",
+        "description": "Motorola Moto E22 Grafite 32GB, 2GB RAM, Tela de 6.5”, Câmera Traseira Dupla, Android 12 e Processador Octa Core",
+        "price": 800.00,
+        "image": "https://a-static.mlcdn.com.br/800x560/smartphone-motorola-e22-xt2239-16-2-32gb-grafite/casasertanejaeletro2/p07tralr1t/60f12f78d91cce128034ed460e902f82.jpeg"
+      },
+      {
+        "id": 17,
+        "category": "Smartphones",
+        "title": "Samsung A13",
+        "description": "Smartphone Samsung Galaxy A13 Preto, 128GB, 4GB RAM, Tela Infinita de 6.6'', Câmera Quádrupla Traseira, Bateria de 5000 mAh e Processador",
+        "price": 1000.00,
+        "image": "https://a-static.mlcdn.com.br/800x560/smartphone-samsung-galaxy-a13-128gb-preto-4g-octa-core-4gb-ram-66-cam-quadrupla-selfie-8mp/magazineluiza/234748900/ce2e2112bde8319425630457f76996c6.jpg"
+      },
+      {
+        "id": 18,
+        "category": "Notebooks",
+        "title": "Notebook Gamer Acer Nitro 5",
+        "description": "Notebook Gamer Acer Nitro 5 AN517-54-79WA Intel Core i7 Linux Gutta 8GB 512GB SSD GTX 1650 17.3' FHD",
+        "price": 5500.00,
+        "image": "https://a-static.mlcdn.com.br/800x560/notebook-gamer-acer-nitro-5-an517-54-79wa-intel-core-i7-linux-gutta-8gb-512gb-ssd-gtx-1650-17-3-fhd/aceroficial/1032/8e0681d1c034eabea007c3bcf19c374d.jpeg"
+      },
+      {
+        "id": 19,
+        "category": "Notebooks",
+        "title": "Notebook Gamer Samsung",
+        "description": "Notebook Samsung Book Intel Core i5-1135G7, 8GB, 256GB SSD, Tela 15.6'' Full HD, Windows 11",
+        "price": 5000.00,
+        "image": "https://a-static.mlcdn.com.br/800x560/notebook-samsung-book-intel-core-i5-1135g7-8gb-256gb-ssd-tela-15-6-full-hd-windows-11/compreshop/15941973521/4767afea7a9db3692f606f85c9ba1826.jpeg"
+      },
+      {
+        "id": 20,
+        "category": "Computadores",
+        "title": "Pc Gamer Streamer",
+        "description": "Pc Gamer Streamer 2021 I7 16gb Ssd Full Hd + Nfe + Garantia",
+        "price": 4500.00,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_666460-MLB52759027936_122022-O.webp"
+      },
+      {
+        "id": 21,
+        "category": "Computadores",
+        "title": "PC Gamer i9 Rtx 3090",
+        "description": "Pc Gamer Intel I9 12900kf 128gb 4tb M.2 1tb Rtx 3090 24gb",
+        "price": 25000.00,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_678279-MLB51376494887_092022-O.webp"
+      },
     ]
     
       
