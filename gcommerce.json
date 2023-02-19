@@ -4,7 +4,7 @@
         "category": "Notebooks",
         "title": "Macbook Air",
         "description": "Notebook leve e potente, ideal para trabalho e estudos",
-        "price": "7.000",
+        "price": "7000.00",
         "image": "https://m.media-amazon.com/images/I/41-RhQeujUL.__AC_SY445_SX342_QL70_ML2_.jpg"
         },
         {
@@ -12,7 +12,7 @@
         "category": "Smartphones",
         "title": "Samsung Galaxy S21 Ultra",
         "description": "Smartphone top de linha, com excelente desempenho e tela de alta resolução",
-        "price": "6.000",
+        "price": "6000.00",
         "image": "https://m.media-amazon.com/images/I/61pJ2Jl85jL._AC_SX679_.jpg"
         },
         {
@@ -20,7 +20,7 @@
         "category": "Computadores",
         "title": "Computador Desktop iMac",
         "description": "Computador All-in-one potente e elegante, ideal para trabalho e entretenimento",
-        "price": "12.000",
+        "price": "1200.00",
         "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imac-24-blue-selection-hero-202104?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1617492405000"
         },
         {
@@ -28,7 +28,7 @@
         "category": "Notebooks",
         "title": "Lenovo Ideapad Gaming",
         "description": "Notebook potente e compacto, ideal para jogos e entretenimento",
-        "price": "4.000",
+        "price": "4000.00",
         "image": "https://m.media-amazon.com/images/I/615TJBAXXbL._AC_SX679_.jpg"
         },
         {
@@ -36,7 +36,7 @@
         "category": "Smartphones",
         "title": "OnePlus 9 Pro",
         "description": "Smartphone de alta performance, com câmera de alta qualidade e tela OLED",
-        "price": "4.500",
+        "price": "4500.00",
         "image": "https://m.media-amazon.com/images/I/61K-aFvEwRL._AC_SX679_.jpg"
         }, 
         {
@@ -44,7 +44,7 @@
         "category": "Computadores",
         "title": "Computador Desktop",
         "description": "Computador de mesa com alta performance",
-        "price": "2.000",
+        "price": "2000.00",
         "image": "https://m.media-amazon.com/images/I/51x1qyds0XL._AC_SX679_.jpg"
       },
       {
@@ -52,7 +52,7 @@
         "category": "Smartphones",
         "title": "Samsung Galaxy S21",
         "description": "Smartphone top de linha da Samsung",
-        "price": "3.000",
+        "price": "3000.00",
         "image": "https://m.media-amazon.com/images/I/61elD8wF7kS._AC_SX679_.jpg"
       },
       {
@@ -60,7 +60,7 @@
         "category": "Notebooks",
         "title": "Macbook Air M2",
         "description": "Notebook da Apple com design fino e leve",
-        "price": "6.000",
+        "price": "6000.00",
         "image": "Macbook Air M2"
       },
       {
@@ -68,7 +68,7 @@
         "category": "Notebooks",
         "title": "Notebook Lenovo Ideapad",
         "description": "Notebook da Lenovo com ótimo custo-benefício",
-        "price": "2.500",
+        "price": "2500.00",
         "image": "https://m.media-amazon.com/images/I/61i8c2d4tML._AC_SX679_.jpg"
       },
       {
@@ -76,7 +76,7 @@
         "category": "Smartphones",
         "title": "OnePlus 9",
         "description": "Smartphone com ótimo desempenho e preço acessível",
-        "price": "2.000",
+        "price": "2000.00",
         "image": "https://m.media-amazon.com/images/I/51K4BOKabbL._AC_.jpg"
       },
       {
@@ -84,7 +84,7 @@
         "category": "Notebooks",
         "title": "Notebook Dell Inspiron",
         "description": "Notebook Dell Inspiron com processador Intel Core i5 e tela de 15,6 polegadas",
-        "price": "3.500",
+        "price": "3500.00",
         "image": "hhttps://m.media-amazon.com/images/I/61fbk3IFERL._AC_SX679_.jpg"
       },
       {
@@ -92,7 +92,7 @@
         "category": "Smartphones",
         "title": "Samsung Galaxy A33",
         "description": "Smartphone Samsung Galaxy A33 com tela de 6,4 polegadas e câmera traseira de 64 MP",
-        "price": "4.000",
+        "price": "400.00",
         "image": "https://m.media-amazon.com/images/I/6112HNaDKwL._AC_SX679_.jpg"
       },
       {
@@ -100,7 +100,7 @@
         "category": "Computadores",
         "title": "Computador All-in-One",
         "description": "Computador tudo-em-um com processador Intel Core i7 e tela de 27 polegadas",
-        "price": "3.000",
+        "price": "3000.00",
         "image": "https://m.media-amazon.com/images/I/61VBgSQljtL._AC_SX679_.jpg"
       },
       {
@@ -108,7 +108,7 @@
         "category": "Notebooks",
         "title": "MacBook Pro",
         "description": "Notebook Apple MacBook Pro com processador Intel Core i9 e tela de 16 polegadas",
-        "price": "10.000",
+        "price": "10000.00",
         "image": "hhttps://m.media-amazon.com/images/I/41lmLVeQYAL.__AC_SY445_SX342_QL70_ML2_.jpg"
       },
       {
@@ -116,7 +116,7 @@
         "category": "Smartphones",
         "title": "OnePlus 10 Pro",
         "description": "Smartphone OnePlus 10 Pro com tela AMOLED de 6,7 polegadas e câmera traseira de 48 MP",
-        "price": "5.500",
+        "price": "5500.00",
         "image": "https://http2.mlstatic.com/D_NQ_NP_899490-MLA49770342213_042022-O.webp"
       }
     ]
